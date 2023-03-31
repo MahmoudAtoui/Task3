@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "S9RxVtFKVCB0cNOTB6xrYh9Ve1fiIIu0oxyp0bwJO+A=",
+  "Source": "Task3",
+  "BasePath": "_content/Task3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Task3\\wwwroot",
+      "Source": "Task3",
+      "ContentRoot": "C:\\Users\\mfato\\RiderProjects\\Task3\\Task3\\wwwroot\\",
+      "BasePath": "_content/Task3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
